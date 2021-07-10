@@ -1,0 +1,14 @@
+.body_backgorund 
+{
+    background-image:url(cupcake_.jpg);
+    background-position:center;
+    background-size:cover;
+}
+#myCanvas
+{
+   background-color: azure;
+   border: ridge;
+   border-color: violet;
+   border-width: 20px;
+}
+
